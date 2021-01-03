@@ -1,0 +1,12 @@
+.container-main{
+}
+.area-middle{
+    text-align: left;
+    width: 50%;
+    margin: auto;
+}
+.header{
+    margin: auto;
+    color: rgb(15, 15, 120);
+    height: 25px;
+}
